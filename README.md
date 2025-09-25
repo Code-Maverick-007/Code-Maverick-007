@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&weight=500&size=30&pause=1000&color=FFFFFF&width=435&lines=Hi+%2C+Myself+Arpit+Sarang👋🏻;an+open+source+contributor🔥;open+for+collaboration😁)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&weight=500&size=30&pause=1000&color=FFFFFF&width=435&lines=Hi+%2C+Myself+Omkar👋🏻;an+open+source+contributor🔥;open+for+collaboration😁)](https://git.io/typing-svg)
 
 "I'm a Full-Stack Developer and AI enthusiast, passionate about creating innovative solutions that combine creativity with performance. Currently pursuing a B.Tech in Computer Science Engineering, I’m continuously exploring the intersection of web development and artificial intelligence."
 
@@ -13,6 +13,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/omkar-shewale-oo7/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpitsarang" height="30" width="40" /></a>
 <a href="https://x.com/_Omkar_shewale_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codemaverick143" height="30" width="40" /></a>
+<a href="mailto:omkarshewale205@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="arpitsarang" height="30" width="40" /></a>
 
 </p>
 
