@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/omkar-shewale-oo7/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpitsarang" height="30" width="40" /></a>
 <a href="https://x.com/_Omkar_shewale_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codemaverick143" height="30" width="40" /></a>
-<a href="mailto:omkarshewale205@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="arpitsarang" height="30" width="40" /></a>
+
 
 </p>
 
