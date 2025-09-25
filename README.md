@@ -23,7 +23,9 @@
 ## 📊 GitHub Stats
 
 ![Omkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Code-Maverick-007&show_icons=true&theme=tokyonight&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar143&layout=compact&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Maverick-007&layout=compact&theme=tokyonight)
+
 
 ---
 
