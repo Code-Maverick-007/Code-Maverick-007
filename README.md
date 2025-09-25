@@ -22,9 +22,14 @@
 
 ## 📊 GitHub Stats
 
-![Omkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Code-Maverick-007&show_icons=true&theme=tokyonight&count_private=true)
+![Omkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Code-Maverick-007&show_icons=true&theme=tokyonight&count_private=true&show=stars,commits)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Maverick-007&layout=compact&theme=tokyonight)
+### 🛠️ Languages I Mostly Use
+![JavaScript](https://img.shields.io/badge/JavaScript-50%25-yellow?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-13%25-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-21%25-blue?style=for-the-badge&logo=css3)
+![TypeScript](https://img.shields.io/badge/TypeScript-6%25-3178C6?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-10%25-3776AB?style=for-the-badge&logo=python)
 
 
 ---
